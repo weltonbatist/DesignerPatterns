@@ -1,0 +1,6 @@
+Autor: Welton Batista
+Data: 20/09/2018
+Designer Pattern: Adapter
+Sobre: Adapter (Adaptador, ou também conhecido como Wrapper) é um dos padrões de projeto estruturais do GoF (Gang of Four).
+O padrão Adapter converte uma interface de uma classe para outra interface que o cliente espera encontrar. 
+O Adaptador permite que classes com interfaces incompatíveis trabalhem juntas.

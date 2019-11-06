@@ -1,0 +1,6 @@
+Autor: Welton Batista
+Data: 25/09/2018
+Designer Pattern: Bridge
+Sobre: Bridge é um padrão de projeto de software, ou design pattern em inglês, 
+utilizado quando é desejável que uma interface possa variar independentemente das suas implementações. 
+Imagine um sistema gráfico de janelas que deve ser portável para diversas plataformas.
